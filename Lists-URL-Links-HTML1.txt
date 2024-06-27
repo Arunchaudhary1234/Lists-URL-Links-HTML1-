@@ -1,0 +1,11 @@
+<p>This is an <em>italicized</em> word.</p>                      This is an italicized word.                                                                
+<p>This is an <i>italicized</i> word.</p>                        This is an italicized word.
+
+<p>This is an <em>emphasized</em> word.</p>                      This is an emphasized word.
+
+<blockquote>This is a longer quote</blockquote> <p>This is a regular paragraph with a <q>short quote</q> inside.</p> 
+ This is a longer quote This is a regular paragraph with a "short quote" inside.
+
+<blockquote>This is a quote with a citation.<cite>Author Name</cite></blockquote>
+This is a quote with a citation.Author Name
+
